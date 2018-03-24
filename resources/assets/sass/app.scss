@@ -1,0 +1,22 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+@import url('https://fonts.googleapis.com/css?family=Caveat:400,700|Gloria+Hallelujah&subset=latin-ext');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//@import url('https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.5/css/mdb.min.css');
+
+@import 'navbar';
+@import 'smallcomponents';
+@import 'login';
+@import 'account';
+
